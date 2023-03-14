@@ -1,12 +1,12 @@
 [
   {
-    "Name":"Breather Time",
-    "Description": "Recovery is important. Please take this day to let our mind and muscles heal from a hectic schedule.",
-    "Activities": ["Yoga", "Meditation", "Reflection"],
+    "Name":"Rest Day",
+    "Description": "Recovery is important, if you dont take rest your muscles wont be able to properly grow stronger and doing anything strenous could damage your muscles making recovery time much longer, it is advised that you take it easy and relax, depending on how your muscles are you maybe be able to be generally active but it is not advised you do anything strenous and if you find your muscles hurting you should make sure to relax, perhaps use muscle relief medicnes. As well that you should reflect on your workouts and how you could improve them and whether you should do less or more or different exercises",
+    "Activities": ["Rest", "Relaxation", "Reflection"],
     "Image": "https://images.unsplash.com/photo-1597573337211-e1080012b84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80"
   },
   {
-    "Name":"Intensity Increase",
+    "Name":"Full Body workout",
     "Description": "Self-improvement is a lifelong journey. Let's continuously achieve new heights, as we are our own competition.",
     "Activities": ["HIIT", "Protein Meals"],
     "Image": "https://images.unsplash.com/photo-1500468756762-a401b6f17b46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
